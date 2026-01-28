@@ -12,3 +12,17 @@ G:\Projects\C\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
 G:\Projects\C\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
 G:\Projects\C\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
 G:\Projects\C\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
+G:\Projects\C\CalculatorApp\bin\Debug\net10.0\ConsoleApp.exe
+G:\Projects\C\CalculatorApp\bin\Debug\net10.0\ConsoleApp.deps.json
+G:\Projects\C\CalculatorApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+G:\Projects\C\CalculatorApp\bin\Debug\net10.0\ConsoleApp.dll
+G:\Projects\C\CalculatorApp\bin\Debug\net10.0\ConsoleApp.pdb
+G:\Projects\C\CalculatorApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C\CalculatorApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+G:\Projects\C\CalculatorApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+G:\Projects\C\CalculatorApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Projects\C\CalculatorApp\obj\Debug\net10.0\ConsoleApp.dll
+G:\Projects\C\CalculatorApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+G:\Projects\C\CalculatorApp\obj\Debug\net10.0\ConsoleApp.pdb
+G:\Projects\C\CalculatorApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+G:\Projects\C\CalculatorApp\obj\Debug\net10.0\ref\ConsoleApp.dll
